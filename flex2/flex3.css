@@ -1,0 +1,27 @@
+ .parent{
+
+    padding: 20px;
+    background-color: rgb(15, 15, 116);
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+
+
+
+ }
+
+ .child{
+
+    border: 2px solid;
+    background-color: brown;
+    padding: 20px;
+    font-size: larger;
+    margin: 15 px 0;
+    display: flex;
+   /* display: inline;*/
+
+
+
+
+
+ }
